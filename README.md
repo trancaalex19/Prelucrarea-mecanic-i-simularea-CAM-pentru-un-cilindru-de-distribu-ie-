@@ -1,0 +1,2 @@
+# Prelucrarea-mecanic-i-simularea-CAM-pentru-un-cilindru-de-distribu-ie-
+Acest proiect detaliază procesul tehnologic complet de fabricare a unui cilindru de distribuție cu flanșă din oțel C45, obținut prin matrițare la cald. Lucrarea include modelarea 3D în CATIA V5, calcularea regimurilor de așchiere, simularea în SolidWorks CAM și generarea codului NC pentru un strung CNC Mazak Quick Turn 250MY.
